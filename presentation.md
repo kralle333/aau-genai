@@ -29,7 +29,17 @@ Yes..AI, but
 
 <!--end_slide -->
 
-Part 1: Starting Out - Games
+Part 1: Quick timeline
+---
+
+- Graduated AAU in 2015
+- Worked in games industry till 2022
+- Worked various roles mainly backend development
+
+<!-- end_slide -->
+
+
+Starting Out - Games
 ---
 Been making games by myself throughout university
 
@@ -249,6 +259,31 @@ I can focus on the fun parts
 
 <!-- end_slide -->
 
+Software development is dead?
+---
+In my opinion:
+
+--> Not for the foreseeable future
+
+---
+There will always be a human in the loop
+- CEOs making 5 year plans
+- Head of departments making 1 year plans
+- Other managers making quartly plans
+
+<!-- end_slide -->
+
+Software development bottleneck
+---
+- For a long time it has not been coding, but rather humans in charge.
+- Overworking have been a thing for a while
+- Managers can't keep up with development speeds
+
+
+<!-- end_slide -->
+
+
+
 
 Summary
 ---
@@ -268,7 +303,8 @@ Thank you!
 
 
 
-Github:
+Slides:
+
 www.github.com/kralle333
 
 
