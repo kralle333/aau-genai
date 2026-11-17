@@ -305,7 +305,7 @@ Thank you!
 
 Slides:
 
-www.github.com/kralle333
+www.github.com/kralle333/aau-genai
 
 
 
